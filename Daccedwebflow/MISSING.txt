@@ -1,0 +1,11 @@
+The following files failed to download during site export. Please check them in the designer assets view (images) or dashboard (fonts).
+
+fonts/BR-Firma-Bold-Italic.otf
+fonts/BR-Firma-Bold.otf
+fonts/BR-Firma-Extra-Light-Italic.otf
+fonts/BR-Firma-Extra-Light.otf
+fonts/BR-Firma-Light.otf
+fonts/BR-Firma-Medium.otf
+fonts/BR-Firma-Regular.otf
+fonts/BR-Firma-SemiBold.otf
+fonts/BR-Firma-Thin-Italic.otf
