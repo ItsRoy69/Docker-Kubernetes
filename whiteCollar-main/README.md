@@ -1,2 +1,0 @@
-# whiteCollar
-Consulting webflow template
