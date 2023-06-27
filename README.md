@@ -1,7 +1,4 @@
-# COMPLETE GUIDE DOCKER & KUBERNETES from [STEPHEN GRIDER]
-
-This course from Stephen teach how to create and deploy any web apps into a Web
-services.
+# COMPLETE GUIDE DOCKER & KUBERNETES
 
 # What is Docker?
 
